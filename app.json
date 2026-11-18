@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Fruty Express",
+    "slug": "fruty-express-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5fbf2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.frutyexpress.mobile"
+    },
+    "android": {
+      "package": "com.frutyexpress.mobile",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f5fbf2"
+      }
+    },
+    "scheme": "frutyexpress",
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}

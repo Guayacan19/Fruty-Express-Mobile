@@ -1,0 +1,3124 @@
+[
+  {
+    "nombre": "Banano Bocadillo",
+    "imagen": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Banano bocadillo de tamaño pequeño, ideal para disfrutar como merienda o acompañar desayunos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 1
+  },
+  {
+    "nombre": "Ciruela Roja",
+    "imagen": "https://martifruit.com/wp-content/uploads/2014/07/ciruela-roja-1.jpg/",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Ciruela de color rojizo, ideal para consumir fresca y preparar jugos o ensaladas de frutas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 2
+  },
+  {
+    "nombre": "Curuba",
+    "imagen": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Curuba fresca, fruta de pulpa aromática utilizada principalmente en jugos y bebidas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 3
+  },
+  {
+    "nombre": "Durazno",
+    "imagen": "https://images.unsplash.com/photo-1629828874514-c1e5103fe5d8?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Durazno de sabor dulce y pulpa jugosa, ideal para consumir fresco o preparar postres.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 4
+  },
+  {
+    "nombre": "Feijoa",
+    "imagen": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Feijoa de aroma característico y sabor entre dulce y ácido, ideal para jugos y consumo fresco.",
+    "calidades": [
+      "1",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 5
+  },
+  {
+    "nombre": "Fresa",
+    "imagen": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Fresas de color rojo y sabor dulce con un toque ácido, ideales para jugos, postres y ensaladas.",
+    "calidades": [
+      "2",
+      "4"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 6
+  },
+  {
+    "nombre": "Fresa Bandeja",
+    "imagen": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Fresas de color rojo y sabor dulce con un toque ácido, ideales para jugos, postres y ensaladas.",
+  
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 7
+  },
+  {
+    "nombre": "Granadilla",
+    "imagen": "https://images.unsplash.com/photo-1604495772376-9657f0035eb5?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Granadilla de pulpa jugosa y sabor dulce, ideal para consumir directamente.",
+    "calidades": [
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 8
+  },
+  {
+    "nombre": "Granadilla Bandeja",
+    "imagen": "https://images.unsplash.com/photo-1604495772376-9657f0035eb5?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Granadilla de pulpa jugosa y sabor dulce, ideal para consumir directamente.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 9
+  },
+  {
+    "nombre": "Granadilla",
+    "imagen": "https://images.unsplash.com/photo-1604495772376-9657f0035eb5?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Granadilla de pulpa jugosa y sabor dulce, ideal para consumir directamente.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Unidad"
+    ],
+    "pesoBaseGramos": null,
+    "id": 10
+  },
+  {
+    "nombre": "Guayaba Pera",
+    "imagen": "https://images.unsplash.com/photo-1536511132770-e5058c7e8c46?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Guayaba pera de pulpa aromática, utilizada para jugos, preparaciones caseras y consumo fresco.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 11
+  },
+  {
+    "nombre": "Gulupa",
+    "imagen": "https://images.unsplash.com/photo-1604495772376-9657f0035eb5?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Gulupa de sabor tropical entre dulce y ácido, ideal para jugos y bebidas.",
+    "calidades": [
+      "1",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 12
+  },
+  {
+    "nombre": "Limón Tahití",
+    "imagen": "https://images.unsplash.com/photo-1590502593747-42a996133562?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Limón Tahití de sabor ácido y jugoso, perfecto para bebidas, limonadas y preparaciones de cocina.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 13
+  },
+  {
+    "nombre": "Lulo Nacional",
+    "imagen": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Lulo nacional de sabor cítrico característico, ideal para preparar jugos y bebidas refrescantes.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 14
+  },
+  {
+    "nombre": "Mandarina A",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mandarina de sabor cítrico y agradable dulzura, ideal para consumir fresca.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 15
+  },
+  {
+    "nombre": "Mango Azúcar",
+    "imagen": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mango de sabor dulce, ideal para consumir fresco, preparar jugos y acompañar diferentes comidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 16
+  },
+  {
+    "nombre": "Mango Común",
+    "imagen": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mango de pulpa jugosa y sabor dulce, apropiado para consumo fresco y preparación de bebidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 17
+  },
+  {
+    "nombre": "Mango Farchis",
+    "imagen": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mango de variedad Farchis, disponible para consumo fresco y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 18
+  },
+  {
+    "nombre": "Mango Tomy",
+    "imagen": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mango Tomy de pulpa carnosa y sabor agradable, ideal para consumir fresco.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 19
+  },
+  {
+    "nombre": "Mango Yulima",
+    "imagen": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mango de variedad Yulima, ideal para consumo fresco y preparación de jugos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 20
+  },
+  {
+    "nombre": "Manzana Ana",
+    "imagen": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Manzana de variedad Ana, ideal para consumir fresca, preparar ensaladas y acompañar meriendas.",
+    "calidades": [
+      "1",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 21
+  },
+  {
+    "nombre": "Maracuyá",
+    "imagen": "https://images.unsplash.com/photo-1604495772376-9657f0035eb5?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Maracuyá de sabor ácido y aroma tropical, utilizado principalmente para preparar jugos y bebidas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 22
+  },
+  {
+    "nombre": "Melón",
+    "imagen": "https://images.unsplash.com/photo-1571575173700-afb9492e6a50?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Melón de pulpa jugosa y sabor dulce, ideal para consumir fresco y preparar ensaladas de frutas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 23
+  },
+  {
+    "nombre": "Mora",
+    "imagen": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mora de sabor entre dulce y ácido, utilizada para jugos, postres y preparaciones caseras.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 24
+  },
+  {
+    "nombre": "Mora Silvestre",
+    "imagen": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Mora silvestre de sabor característico, ideal para preparar jugos y diferentes recetas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 25
+  },
+  {
+    "nombre": "Naranja Tangelo",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Naranja Tangelo de sabor cítrico y jugoso, ideal para consumir fresca o preparar bebidas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 26
+  },
+  {
+    "nombre": "Naranja Valencia",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Naranja Valencia de sabor cítrico, apropiada para consumo fresco y preparación de jugos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 27
+  },
+  {
+    "nombre": "Naranja Valencia Malla",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Naranja Valencia de sabor cítrico, apropiada para consumo fresco y preparación de jugos.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Malla"
+    ],
+    "pesoBaseGramos": null,
+    "id": 28
+  },
+  {
+    "nombre": "P. Hawaiana",
+    "imagen": null,
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 29
+  },
+  {
+    "nombre": "Papaya",
+    "imagen": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Papaya de pulpa suave y sabor dulce, ideal para consumir fresca y preparar bebidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 30
+  },
+  {
+    "nombre": "Patilla",
+    "imagen": "https://images.unsplash.com/photo-1563114773-84221bd62daa?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Patilla de pulpa jugosa y refrescante, ideal para consumir fresca y preparar bebidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 31
+  },
+  {
+    "nombre": "Patilla Baby",
+    "imagen": "https://images.unsplash.com/photo-1563114773-84221bd62daa?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Patilla Baby, una presentación de tamaño pequeño, ideal para consumo en el hogar.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 32
+  },
+  {
+    "nombre": "Pera Nacional",
+    "imagen": "https://images.unsplash.com/photo-1514756331096-242fdeb70d4a?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Pera nacional de pulpa jugosa y sabor dulce, ideal para consumir fresca.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 33
+  },
+  {
+    "nombre": "Piña Común",
+    "imagen": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Piña de sabor dulce y ligeramente ácido, ideal para jugos, ensaladas y consumo fresco.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 34
+  },
+  {
+    "nombre": "Piña Golden",
+    "imagen": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Piña Golden de pulpa jugosa y sabor dulce, apropiada para consumir fresca o preparar bebidas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 35
+  },
+  {
+    "nombre": "Piña Mayanez",
+    "imagen": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Piña de variedad Mayanez, disponible para consumo fresco y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 36
+  },
+  {
+    "nombre": "T. Árbol Amarillo",
+    "imagen": null,
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 37
+  },
+  {
+    "nombre": "T. Árbol Comun",
+    "imagen": null,
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 38
+  },
+  {
+    "nombre": "T. Árbol Rojo",
+    "imagen": null,
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 39
+  },
+  {
+    "nombre": "Limón Mandarino",
+    "imagen": "https://images.unsplash.com/photo-1590502593747-42a996133562?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "fruta",
+    "disponible": true,
+    "descripcion": "Limón mandarino de sabor cítrico, ideal para preparar bebidas y acompañar comidas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 40
+  },
+  {
+    "nombre": "Ahuyama",
+    "imagen": "https://images.unsplash.com/photo-1570586437263-ab629fccc818?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Ahuyama fresca, ideal para preparar sopas, cremas, purés y diferentes recetas caseras.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 41
+  },
+  {
+    "nombre": "Arracacha",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Arracacha fresca, utilizada en sopas, caldos, purés y preparaciones tradicionales.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 42
+  },
+  {
+    "nombre": "Alverja en cáscara",
+    "imagen": "https://images.unsplash.com/photo-1587735243615-c03f25aaff15?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Alverjas frescas en su cáscara, ideales para sopas, arroces y acompañamientos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 43
+  },
+  {
+    "nombre": "Cabezona Blanca",
+    "imagen": null,
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 44
+  },
+  {
+    "nombre": "Cabezona Roja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 45
+  },
+  {
+    "nombre": "Cebolla Larga",
+    "imagen": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Cebolla larga fresca, utilizada para guisos, sopas, caldos y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 46
+  },
+  {
+    "nombre": "Frijol Verde cáscara",
+    "imagen": null,
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 47
+  },
+  {
+    "nombre": "Haba Verde",
+    "imagen": "https://images.unsplash.com/photo-1587735243615-c03f25aaff15?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Haba verde fresca, utilizada en sopas, guisos y preparaciones caseras.",
+    "calidades": [
+      "1"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 48
+  },
+  {
+    "nombre": "Habichuela",
+    "imagen": "https://images.unsplash.com/photo-1567375698348-5d9d5ae99de0?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Habichuela fresca, ideal para ensaladas, guisos, sopas y acompañamientos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 49
+  },
+  {
+    "nombre": "Papa Criolla",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Papa criolla, ideal para preparar papas saladas, sopas, guisos y acompañamientos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 50
+  },
+  {
+    "nombre": "Papa Lavada",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Papa lavada, apropiada para cocinar, freír, hornear y preparar diferentes recetas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 51
+  },
+  {
+    "nombre": "Papa",
+    "imagen": null,
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "Única"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 52
+  },
+  {
+    "nombre": "Papa Pastusa",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Papa pastusa, ideal para sopas, purés, guisos y preparaciones tradicionales.",
+    "calidades": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 53
+  },
+  {
+    "nombre": "Papa Sabanera",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Papa sabanera, ideal para cocinar, preparar sopas y acompañar diferentes platos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 54
+  },
+  {
+    "nombre": "Pepino Cohombro",
+    "imagen": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Pepino cohombro fresco, ideal para ensaladas, acompañamientos y preparaciones ligeras.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 55
+  },
+  {
+    "nombre": "Pepino Guiso",
+    "imagen": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Pepino para guiso, utilizado en preparaciones cocinadas y recetas caseras.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 56
+  },
+  {
+    "nombre": "Pimentón",
+    "imagen": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Pimentón fresco, ideal para ensaladas, guisos, arroces y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 57
+  },
+  {
+    "nombre": "Plátano",
+    "imagen": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Plátano fresco, utilizado para patacones, tajadas, sopas y acompañamientos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 58
+  },
+  {
+    "nombre": "Remolacha",
+    "imagen": "https://images.unsplash.com/photo-1593021150996-2c1a7d9a1c2c?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Remolacha fresca, ideal para ensaladas, jugos y diferentes preparaciones.",
+    "calidades": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 59
+  },
+  {
+    "nombre": "Tomate Chonto",
+    "imagen": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Tomate chonto fresco, utilizado para preparar guisos, salsas, ensaladas y acompañamientos.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 60
+  },
+  {
+    "nombre": "Tomate Larga Vida",
+    "imagen": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Tomate larga vida, apropiado para ensaladas, salsas y preparaciones de cocina.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 61
+  },
+  {
+    "nombre": "Yuca",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Yuca fresca, ideal para cocinar, preparar sancochos y acompañar diferentes comidas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 62
+  },
+  {
+    "nombre": "Zanahoria",
+    "imagen": "https://images.unsplash.com/photo-1445282768818-728615cc910a?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Zanahoria fresca, ideal para ensaladas, sopas, jugos y diferentes preparaciones.",
+    "calidades": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 63
+  },
+  {
+    "nombre": "Zapallo",
+    "imagen": "https://images.unsplash.com/photo-1570586437263-ab629fccc818?auto=format&fit=crop&w=800&q=85",
+    "precio": null,
+    "categoria": "verdura",
+    "disponible": true,
+    "descripcion": "Zapallo fresco, utilizado en sopas, cremas, purés y preparaciones caseras.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 64
+  },
+  {
+    "nombre": "Acelga",
+    "imagen": "https://images.unsplash.com/photo-1576045057995-568f588f82fb",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de hojas verdes utilizada en diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 65
+  },
+  {
+    "nombre": "Apio",
+    "imagen": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de tallos verdes utilizada en ensaladas y preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 66
+  },
+  {
+    "nombre": "Berenjena",
+    "imagen": "https://images.unsplash.com/photo-1651322501670-4f3f3f4e6c4a",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en diferentes preparaciones de cocina.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 67
+  },
+  {
+    "nombre": "Brócoli",
+    "imagen": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de color verde utilizada en ensaladas y comidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 68
+  },
+  {
+    "nombre": "Calabacín",
+    "imagen": "https://images.unsplash.com/photo-1563252722-6434563a985d",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en preparaciones cocinadas y acompañamientos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 69
+  },
+  {
+    "nombre": "Calabaza",
+    "imagen": "https://images.unsplash.com/photo-1506976785307-8732e854ad03",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en sopas, cremas y otras preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 70
+  },
+  {
+    "nombre": "Caléndula",
+    "imagen": "https://images.unsplash.com/photo-1508610048659-a06b669e3321",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Producto vegetal disponible en el catálogo.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 71
+  },
+  {
+    "nombre": "Cebolla Puerro",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada para dar sabor a sopas y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 72
+  },
+  {
+    "nombre": "Cebollín",
+    "imagen": "https://images.unsplash.com/photo-1508747703725-719777637510",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada como ingrediente y acompañamiento en comidas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 73
+  },
+  {
+    "nombre": "Champiñón 250Gr",
+    "imagen": "https://images.unsplash.com/photo-1504545102780-26774c1bb073",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Producto utilizado en ensaladas, salsas y diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 250,
+    "id": 74
+  },
+  {
+    "nombre": "Champiñón 80Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 80,
+    "id": 75
+  },
+  {
+    "nombre": "Cilantro",
+    "imagen": "https://images.unsplash.com/photo-1588879460618-924c3e7d947d",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hierba aromática utilizada para condimentar diferentes comidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 76
+  },
+  {
+    "nombre": "Coliflor",
+    "imagen": "https://images.unsplash.com/photo-1568584711271-6c929fb49b60",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en ensaladas y preparaciones cocinadas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 77
+  },
+  {
+    "nombre": "Espinaca",
+    "imagen": "https://images.unsplash.com/photo-1576045057995-568f588f82fb",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de hojas verdes utilizada en ensaladas y comidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 78
+  },
+  {
+    "nombre": "Guascas",
+    "imagen": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hierba utilizada como ingrediente en preparaciones tradicionales.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 79
+  },
+  {
+    "nombre": "Guatila",
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en sopas y diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 80
+  },
+  {
+    "nombre": "Lechuga Batavia",
+    "imagen": "https://images.unsplash.com/photo-1556801712-76c8eb07bbc9",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Lechuga de hojas verdes utilizada principalmente en ensaladas.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 81
+  },
+  {
+    "nombre": "Lechuga Crespa",
+    "imagen": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Lechuga de hojas rizadas utilizada en ensaladas y acompañamientos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 82
+  },
+  {
+    "nombre": "Lechuga Crespa Mor",
+    "imagen": null,
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 83
+  },
+  {
+    "nombre": "Perejil Crespo",
+    "imagen": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hierba aromática utilizada para condimentar y decorar comidas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 84
+  },
+  {
+    "nombre": "Perejil Liso",
+    "imagen": "https://images.unsplash.com/photo-1588879460618-924c3e7d947d",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hierba aromática de hojas lisas utilizada en diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 85
+  },
+  {
+    "nombre": "Rábano Rojo",
+    "imagen": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza utilizada en ensaladas y acompañamientos.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 86
+  },
+  {
+    "nombre": "Raíz China 270Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 270,
+    "id": 87
+  },
+  {
+    "nombre": "Sábila",
+    "imagen": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Planta incluida en el catálogo de productos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 88
+  },
+  {
+    "nombre": "Zucchini Amarillo",
+    "imagen": "https://images.unsplash.com/photo-1563252722-6434563a985d",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de variedad amarilla utilizada en diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 89
+  },
+  {
+    "nombre": "Zucchini Verde",
+    "imagen": "https://images.unsplash.com/photo-1563252722-6434563a985d",
+    "precio": null,
+    "categoria": "hortaliza",
+    "disponible": true,
+    "descripcion": "Hortaliza de variedad verde utilizada en diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 90
+  },
+  {
+    "nombre": "Ajo Importado Caja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 91
+  },
+  {
+    "nombre": "Ajo Importado Uni",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 92
+  },
+  {
+    "nombre": "Ajo Nacional",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 93
+  },
+  {
+    "nombre": "Ajo Nacional Atado",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 94
+  },
+  {
+    "nombre": "Alcachofa",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 95
+  },
+  {
+    "nombre": "Aromáticas",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 96
+  },
+  {
+    "nombre": "Arveja Desgra",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 97
+  },
+  {
+    "nombre": "Balu",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 98
+  },
+  {
+    "nombre": "Chuguas 130Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 130,
+    "id": 99
+  },
+  {
+    "nombre": "Colicero",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 100
+  },
+  {
+    "nombre": "Cubios 320Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 320,
+    "id": 101
+  },
+  {
+    "nombre": "Cúrcuma",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 102
+  },
+  {
+    "nombre": "Ensaladas",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 103
+  },
+  {
+    "nombre": "Frijol Desgranado",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 104
+  },
+  {
+    "nombre": "Haba Desgranada",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 105
+  },
+  {
+    "nombre": "Jengibre",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [
+      "1"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 106
+  },
+  {
+    "nombre": "Jengibre Bandeja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 107
+  },
+  {
+    "nombre": "Mazorca Bandeja 1",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 108
+  },
+  {
+    "nombre": "Mazorca Bandeja 2",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 109
+  },
+  {
+    "nombre": "Mazorca Desgr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 110
+  },
+  {
+    "nombre": "Mazorca Entera",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 111
+  },
+  {
+    "nombre": "Miel 50Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 50,
+    "id": 112
+  },
+  {
+    "nombre": "Repollo Blanco",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 113
+  },
+  {
+    "nombre": "Repollo Morado",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 114
+  },
+  {
+    "nombre": "Tomate Cherry",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 115
+  },
+  {
+    "nombre": "Tomillo Y Laurel",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 116
+  },
+  {
+    "nombre": "Verduras Picadas",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 117
+  },
+  {
+    "nombre": "Yacón",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 118
+  },
+  {
+    "nombre": "Agraz 200Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 200,
+    "id": 119
+  },
+  {
+    "nombre": "Aguacate Hass",
+    "imagen": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Aguacate de piel oscura y pulpa cremosa.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 120
+  },
+  {
+    "nombre": "Aguacate Papelillo",
+    "imagen": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de aguacate utilizada en diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 121
+  },
+  {
+    "nombre": "Arándano 125Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 125,
+    "id": 122
+  },
+  {
+    "nombre": "Arazá",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical utilizada en jugos y preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 123
+  },
+  {
+    "nombre": "Badea",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical utilizada principalmente en bebidas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 124
+  },
+  {
+    "nombre": "Banano Criollo",
+    "imagen": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de banano disponible para consumo y preparación de alimentos.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 125
+  },
+  {
+    "nombre": "Banano Urabá",
+    "imagen": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Banano utilizado para consumo diario y diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 126
+  },
+  {
+    "nombre": "Borojó",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical utilizada en bebidas y preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 127
+  },
+  {
+    "nombre": "Breva",
+    "imagen": "https://images.unsplash.com/photo-1577003833619-76bbd7f82948",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta utilizada en preparaciones dulces y tradicionales.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 128
+  },
+  {
+    "nombre": "Carambolo",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical reconocida por su forma característica.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 129
+  },
+  {
+    "nombre": "Ciruela California",
+    "imagen": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de pulpa jugosa utilizada en diferentes preparaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 130
+  },
+  {
+    "nombre": "Coco",
+    "imagen": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta utilizada en bebidas, postres y preparaciones.",
+    "calidades": [
+      "1"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 131
+  },
+  {
+    "nombre": "Durazno Melocotón",
+    "imagen": "https://images.unsplash.com/photo-1629828874514-c1e5103e9b6d",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de pulpa suave y jugosa.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 132
+  },
+  {
+    "nombre": "Durazno Nectarin",
+    "imagen": "https://images.unsplash.com/photo-1629828874514-c1e5103e9b6d",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de durazno de piel lisa y pulpa jugosa.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 133
+  },
+  {
+    "nombre": "Guanábana",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical utilizada en jugos, batidos y postres.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 134
+  },
+  {
+    "nombre": "Kiwi",
+    "imagen": "https://images.unsplash.com/photo-1585059895524-72359e06133a",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de pulpa verde utilizada en ensaladas y postres.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 135
+  },
+  {
+    "nombre": "Kiwi",
+    "imagen": "https://images.unsplash.com/photo-1585059895524-72359e06133a",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de pulpa verde utilizada en ensaladas y postres.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 136
+  },
+  {
+    "nombre": "Manzana Roja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 137
+  },
+  {
+    "nombre": "Manzana Roja Bandeja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 138
+  },
+  {
+    "nombre": "Manzana Royal",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 139
+  },
+  {
+    "nombre": "Manzana Royal Bandeja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 140
+  },
+  {
+    "nombre": "Manzana Verde",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 141
+  },
+  {
+    "nombre": "Manzana Verde Bandeja",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 142
+  },
+  {
+    "nombre": "Melocotón",
+    "imagen": "https://images.unsplash.com/photo-1629828874514-c1e5103e9b6d",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de pulpa suave utilizada en bebidas y postres.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 143
+  },
+  {
+    "nombre": "Naranja Grey",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de naranja incluida en el catálogo.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 144
+  },
+  {
+    "nombre": "Níspero",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta de sabor dulce utilizada para consumo fresco.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 145
+  },
+  {
+    "nombre": "Papayuela",
+    "imagen": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta utilizada en preparaciones dulces y bebidas.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 146
+  },
+  {
+    "nombre": "Pera Asiática",
+    "imagen": "https://images.unsplash.com/photo-1514756331096-242fdeb70d4a",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de pera de textura crujiente.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 147
+  },
+  {
+    "nombre": "Pera Boss",
+    "imagen": "https://images.unsplash.com/photo-1514756331096-242fdeb70d4a",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de pera disponible para consumo fresco.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 148
+  },
+  {
+    "nombre": "Pera Importada 135",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 149
+  },
+  {
+    "nombre": "Pera Importada",
+    "imagen": "https://images.unsplash.com/photo-1514756331096-242fdeb70d4a",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Pera importada disponible en diferentes presentaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 150
+  },
+  {
+    "nombre": "Pitahaya",
+    "imagen": "https://images.unsplash.com/photo-1527325678964-54921661f888",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical de apariencia llamativa y pulpa suave.",
+    "calidades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 151
+  },
+  {
+    "nombre": "Tamarindo",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta utilizada en bebidas y preparaciones de sabor ácido y dulce.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 152
+  },
+  {
+    "nombre": "Uchuva 270Gr",
+    "imagen": null,
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Libra",
+      "Gramos",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": 270,
+    "id": 153
+  },
+  {
+    "nombre": "Uva Combinada",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Presentación de uvas combinadas para consumo fresco.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 154
+  },
+  {
+    "nombre": "Uva Importada",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Uva importada para consumo fresco y diferentes preparaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 155
+  },
+  {
+    "nombre": "Uva Isabela",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Variedad de uva utilizada para consumo fresco y bebidas.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 156
+  },
+  {
+    "nombre": "Uva Roja",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Uva de color rojo disponible en diferentes presentaciones.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 157
+  },
+  {
+    "nombre": "Uva Roja",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Uva de color rojo disponible en diferentes presentaciones.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Bandeja"
+    ],
+    "pesoBaseGramos": null,
+    "id": 158
+  },
+  {
+    "nombre": "Uva Verde",
+    "imagen": "https://images.unsplash.com/photo-1537640538966-79f369143f8f",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Uva de color verde para consumo fresco.",
+    "calidades": [],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 159
+  },
+  {
+    "nombre": "Zapote",
+    "imagen": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "precio": null,
+    "categoria": "importado",
+    "disponible": true,
+    "descripcion": "Fruta tropical de pulpa suave utilizada para consumo fresco.",
+    "calidades": [
+      "1",
+      "2"
+    ],
+    "modalidadesVenta": [
+      "Pesos",
+      "Unidad",
+      "Libra",
+      "Kilo",
+      "Arroba"
+    ],
+    "pesoBaseGramos": null,
+    "id": 160
+  }
+]
